@@ -10,4 +10,4 @@ print(df)
 print(df[1:2,]) ## 1 and 2 rows
 print(df[,1:2]) ## 1 and 2 columns
 print(df[1:3]) ## no commas so 1,2,3 columns
-print(df[-1,-1])
+print(df[-1,-1]) ## for removing rows and columns
